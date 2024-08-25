@@ -1,10 +1,10 @@
 ### Columbia River Gorge Hikes Dashboard
 
-## Overview
+# Overview
 
-This project showcases an interactive Tableau dashboard featuring hikes in the Columbia River Gorge, which is between Oregon and Washington state in the US. The Columbia River Gorge is renowned for its stunning vistas and is considered one of the best hiking destinations. As an avid hiker, I want to go there, so I used my Tableau skills to visualize the trails to see which trails excite me. 
+This project showcases an interactive Tableau dashboard featuring hikes in the Columbia River Gorge between Oregon and Washington state in the US. The Columbia River Gorge is renowned for its stunning vistas and is considered one of the best hiking destinations. As an avid hiker, I wanted to go there, so I used my Tableau skills to visualize the trails and see which hikes excite me. 
 
-## Project Description
+# Project Description
 The project involved several stages:
 
 - Data Collection: Web scraping data from oregonhiker.org.
@@ -23,18 +23,18 @@ The Tableau dashboard allows users to explore Columbia River Gorge hikes based o
 - Trail type
 - Trail hazards (ticks, poison ivy, and rattlesnakes)
 
-## Data Source
+# Data Source
 The data for this project was scraped from oregonhiker.org and Googlemaps API.
 
-## Tools Used
+# Tools Used
 
 - Python: Web scraping, data cleaning, and transformation
 - Google Maps API: Geolocation data
 - Tableau: Data visualization and dashboard creation
 
-## Future Plans
+# Future Plans
 
 - Expand the dataset to include more trails and features
 
-## Safety Note
+# Safety Note
 While the Columbia River Gorge offers hikes for all skill levels, from family-friendly to challenging, it's crucial to research trails before embarking on a hike. Some trails may have hazards such as steep drop-offs or wildlife (including rattlesnakes). Always prioritize safety and come prepared.
