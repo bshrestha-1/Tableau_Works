@@ -1,4 +1,4 @@
-###Columbia River Gorge Hikes Dashboard
+### Columbia River Gorge Hikes Dashboard
 
 ## Overview
 
