@@ -38,3 +38,7 @@ The data for this project was scraped from oregonhiker.org and Googlemaps API.
 
 # Safety Note
 While the Columbia River Gorge offers hikes for all skill levels, from family-friendly to challenging, it's crucial to research trails before embarking on a hike. Some trails may have hazards such as steep drop-offs or wildlife (including rattlesnakes). Always prioritize safety and come prepared.
+
+
+
+[![](Screenshot.png)]
