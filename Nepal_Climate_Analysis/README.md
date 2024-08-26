@@ -36,8 +36,10 @@ The interactive Tableau dashboard created for this project allows users to explo
 
   - Attribute Selection: Users can choose different climate parameters to visualize, with options to display data by year or month.
   - Interactive Map: The dashboard features an interactive map highlighting all 62 districts in Nepal. Users can click on any district to view localized climate data.
-  - Metric Comparison: The dashboard enables the comparison of two selected metrics, allowing users to dynamically change the metrics for customized analysis.
+  - Metric Comparison: The dashboard enables the comparison of two selected metrics, allowing users to change the metrics for customized analysis dynamically.
   - Yearly Graphs with Forecasting: The dashboard includes yearly trend graphs for selected attributes, with projections extending to 2023 to predict future climate trends.
+  - District and Month Graphs: The dashboard showcases the trend of the chosen metric by district and month.
+  - Boxplots for the metric: I added this recently to see if the outliers for a given metric.
 
 ## How to Use the Dashboard
 
