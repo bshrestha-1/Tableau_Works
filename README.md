@@ -1,40 +1,21 @@
-### Columbia River Gorge Hikes Dashboard
+### Tableau Works
 
-# Overview
+Welcome to my tableau_works repository! Here, I've showcased two of the many Tableau projects I've worked on. These projects represent my passion for data visualization and my interest in hiking and climate analysis.
 
-This project showcases an interactive Tableau dashboard featuring hikes in the Columbia River Gorge between Oregon and Washington state in the US. The Columbia River Gorge is renowned for its stunning vistas and is considered one of the best hiking destinations. As an avid hiker, I wanted to go there, so I used my Tableau skills to visualize the trails and see which hikes excite me. 
+# Featured Projects
+1. Columbia River Gorge Hikes
 
-# Project Description
-The project involved several stages:
+I created this project as an avid hiker to help plan my hikes in the Columbia River Gorge. The dashboard allows users to explore hiking attributes such as trail difficulty, elevation gain, distance, and more. It's a practical tool for anyone looking to make informed decisions about their outdoor adventures in this beautiful region.
 
-- Data Collection: Web scraping data from oregonhiker.org.
-- Data Cleaning and Transformation:
-  - Converted distance and elevation to numerical formats
-  - Filled in missing data in the trail type column
-  - Used Google Maps API to obtain latitude and longitude for each hike
-- Visualization: Created an interactive Tableau dashboard to visualize the hikes based on various parameters.
+2. Nepal Climate Analysis
 
-# Dashboard Features
-The Tableau dashboard allows users to explore Columbia River Gorge hikes based on:
-- Distance
-- Elevation
-- Crowdedness
-- Backpack-ability
-- Trail type
-- Trail hazards (ticks, poison ivy, and rattlesnakes)
+As a concerned Nepalese, I wanted to understand how Nepal's climate is changing over the years. This project comprehensively analyzes Nepal's climate data from the NASA Langley Research Center (LaRC) POWER Project, covering multiple parameters across different regions. It's a deep dive into the environmental shifts occurring in my home country.
 
-# Data Source
-The data for this project was scraped from oregonhiker.org and Googlemaps API.
+# About These Projects
 
-# Tools Used
+These projects are part of my weekend explorations into data visualization. I enjoy using Tableau to create meaningful, insightful dashboards that address real-world interests and concerns. Some of these projects are also published on Tableau Public, where they are accessible to a broader audience.
 
-- Python: Web scraping, data cleaning, and transformation
-- Google Maps API: Geolocation data
-- Tableau: Data visualization and dashboard creation
+# Explore the Projects
 
-# Future Plans
+You can explore the Tableau workbooks included in this repository. Each project folder contains a brief description, the Tableau workbook file, and any associated data files.
 
-- Expand the dataset to include more trails and features
-
-# Safety Note
-While the Columbia River Gorge offers hikes for all skill levels, from family-friendly to challenging, it's crucial to research trails before embarking on a hike. Some trails may have hazards such as steep drop-offs or wildlife (including rattlesnakes). Always prioritize safety and come prepared.
