@@ -58,3 +58,7 @@ Future work could involve:
 ## Acknowledgments
 
 This project was made possible by the NASA Langley Research Center (LaRC) and the POWER Project, with data support from the NASA Earth Science/Applied Science Program.
+
+## Screenshot
+
+[![](Screenshot.png)]
